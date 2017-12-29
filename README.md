@@ -10,13 +10,13 @@ A calendar that collects dates in animes.
 ### Birth
 <!-- This format applies to the other 2 columns too -->
 * Year: Full description. [Anime]
-<!-- Year can be empty in Birth & Death if can't be found. -->
+<!-- Year can be empty if cannot be found / unapplicable. -->
 
 ### Death
 <!-- Same format -->
 
 ### Events
-<!-- Same format, but the year must be defined, unless repeated event. -->
+<!-- Same format -->
 ```
 
 [Example](https://github.com/austinhuang0131/anime-calendar/blob/master/March/20.md)
